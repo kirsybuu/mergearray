@@ -4,6 +4,5 @@
 	"copyright": "Copyright © 2017, Michael Joseph Coulombe",
 	"authors": ["kirsybuu"],
 	"targetType": "sourceLibrary",
-	"dependencies": {
-	}
+	"license" : "MIT"
 }
