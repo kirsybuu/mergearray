@@ -1,0 +1,9 @@
+{
+	"name": "mergearray",
+	"description": "A concurrent, mergable priority queue.",
+	"copyright": "Copyright © 2017, Michael Joseph Coulombe",
+	"authors": ["kirsybuu"],
+	"targetType": "sourceLibrary",
+	"dependencies": {
+	}
+}
